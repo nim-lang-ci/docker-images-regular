@@ -1,0 +1,7 @@
+build
+*.exe
+nimcache
+*.sublime-*
+./Dockerfile
+Dockerfiles
+bin/
