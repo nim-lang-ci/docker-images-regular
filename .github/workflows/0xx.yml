@@ -1,4 +1,4 @@
-name: All versions
+name: 0.x.x branch
 
 on:
   schedule:
